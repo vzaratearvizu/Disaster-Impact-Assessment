@@ -1,0 +1,10 @@
+              precision    recall  f1-score   support
+
+   No Damage       0.62      0.90      0.73       249
+       Minor       0.00      0.00      0.00        43
+       Major       0.57      0.20      0.30        80
+   Destroyed       0.70      0.64      0.67       187
+
+    accuracy                           0.64       559
+   macro avg       0.47      0.43      0.42       559
+weighted avg       0.59      0.64      0.59       559
