@@ -16,6 +16,7 @@ from tqdm import tqdm
 import matplotlib.pyplot as plt
 # Confusion matrix
 from sklearn.metrics import confusion_matrix, classification_report
+# Dataa visualization
 import seaborn as sns
 
 from dataset import DisasterDataset, get_transforms
